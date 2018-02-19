@@ -8,6 +8,8 @@ class MathFunctions
     end
   end
 end
+
+
 def MathFunctions.triple(var) # Outside of class
   times_called; var * 3
 end
